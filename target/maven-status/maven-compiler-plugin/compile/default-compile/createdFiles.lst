@@ -1,0 +1,5 @@
+main\calServlet.class
+com\mycompany\prj_lab1\JakartaRestConfiguration.class
+main\geoServlet.class
+main\loginServlet.class
+com\mycompany\prj_lab1\resources\JakartaEE10Resource.class
